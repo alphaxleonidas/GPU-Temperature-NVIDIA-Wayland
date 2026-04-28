@@ -1,6 +1,6 @@
 # GPU-Temperature-NVIDIA-Wayland
 
-GNOME Extension to show NVIDIA GPU Temperature in Top Bar of GNOME 45/46 in Wayland
+GNOME Extension to show NVIDIA GPU Stats (Utilization, VRAM, Power Draw, Temp) in Top Bar of GNOME 45/46 in Wayland.
 
 
 # Context
@@ -16,9 +16,9 @@ This repo is for self use. Use it at your own risk. I am not responsible for any
 ```
 cd ~
 
-git clone https://github.com/alphaxleonidas/GPU-Temperature-NVIDIA-Wayland.git
+git clone https://github.com/alphaxleonidas/GPU-Stats-NVIDIA-Wayland.git
 
-cp -r GPU-Temperature-NVIDIA-Wayland/* ~/.local/share/gnome-shell/extensions/
+cp -r GPU-Stats-NVIDIA-Wayland/* ~/.local/share/gnome-shell/extensions/
 
 gnome-extensions enable gpu-temp@local
 ```
