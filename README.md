@@ -2,6 +2,8 @@
 
 GNOME Extension to show NVIDIA GPU Stats (Utilization, VRAM, Power Draw, Temp) in Top Bar of GNOME 45/46 in Wayland.
 
+For Editing: `extension.js`
+
 
 # Context
 
