@@ -1,7 +1,7 @@
 {
   "uuid": "gpu-temp@local",
-  "name": "GPU Stats (Modern)",
-  "description": "Modern GNOME 46 GPU monitor",
+  "name": "GPU Stats NVIDIA Wayland",
+  "description": "Moderm GPU monitor for NVIDIA on GNOME 46. Configureable. Modify extension.js to your desired liking. The code is already there.",
   "version": 1,
   "shell-version": ["45", "46"],
   "type": "module"
