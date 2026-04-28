@@ -1,7 +1,8 @@
 {
   "uuid": "gpu-temp@local",
-  "name": "GPU Temperature in TopBar NVIDIA",
-  "description": "Shows NVIDIA GPU temperature in top bar of GNOME 45/46 for Wayland",
+  "name": "GPU Stats (Modern)",
+  "description": "Modern GNOME 46 GPU monitor",
   "version": 1,
-  "shell-version": ["45", "46"]
+  "shell-version": ["45", "46"],
+  "type": "module"
 }
