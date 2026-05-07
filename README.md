@@ -9,9 +9,6 @@ For Editing: `extension.js`
 
 GreenWithEnvy is EOL and works only under X11. Rest of the system monitor extensions show the GPU stats except temperature.
 
-# Disclaimer
-
-This repo is for self use. Use it at your own risk. I am not responsible for any damage that would occur. 
 
 # Installation
 
